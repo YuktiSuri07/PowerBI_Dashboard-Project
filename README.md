@@ -69,13 +69,3 @@ Key calculations and measures were developed using DAX to support KPI reporting 
 - Age-segment classification
 - Dynamic dashboard insights
 
----
-
-## 📂 Project Structure
-
-```text
-📁 PhonePe-Payment-Analytics
-│
-├── 📊 PhonePe_Analysis.pbix
-├── 🖼️ Dashboard.png
-└── 📄 README.md
